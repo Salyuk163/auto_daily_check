@@ -1,4 +1,4 @@
-# Auto daily check in tanki
+# Auto daily check
 Скрипт для автоматического получения отметок ежедневного табель-календаря wot/tanki
 
 # Установка
